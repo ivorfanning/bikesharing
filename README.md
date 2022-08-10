@@ -30,6 +30,7 @@ Lastly, we polt the line chart for checkout time for user and gender. From the f
 
 ![checkout time by gender](https://github.com/ivorfanning/bikesharing/blob/main/images1/checkout%20time%20by%20gender.png)
 
+The full dashboard could be viewed at https://public.tableau.com/app/profile/ivorfanning/viz/citibikestory/citibikestory?publish=yes
 # Summary
 
 The bikesharing program is a great idea for short distance commute and convenience for nearby communities. It could save time, reduce traffic jam and gain much more fun. However the program still has its limitations, such as the age, maintainence, and cost of fix of the bikes.
